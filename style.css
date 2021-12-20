@@ -55,4 +55,29 @@ h1{
 
 .Third{
     display: flex;
+    margin-bottom: 40px;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    
+   
+}
+.Last{
+    width: 50%;
+    margin: 0 5% 0 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 2%;
+}
+
+#one{
+    border-left: 7px solid;
+    border-image: linear-gradient(green,cyan);
+    border-image-slice: 1;
+}
+.X{
+    padding: 80px 0 0 60px;
+
+}
+
+footer{
+    text-align: center;
 }
